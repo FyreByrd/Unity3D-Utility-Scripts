@@ -4,4 +4,4 @@ These scripts are ones that I find myself using across multiple projects, so I t
 Credit for some of the scripts goes to some tutorials I found online (e.g. catlikecoding).
 
 Packages:
-- save_io.unitypackage:  Includes SaveIO.cs, which has methods to save various datatypes in a binary format.
+- save_io.unitypackage: methods to save various datatypes in a binary format.
